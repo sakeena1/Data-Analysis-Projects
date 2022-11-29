@@ -9,12 +9,6 @@ Cosmetic Data Analysis Using HIVE
 ## Project Intro/Objective
 The purpose of this project is to extract valuable insights from an e-retail cosmetic company 
 
-### Partner
-* [Name of Partner organization/Government department etc..]
-* Website for partner
-* Partner contact: [Name of Contact], [slack handle of contact if any]
-* If you do not have a partner leave this section out
-
 ### Methods Used
 * HDFS
 * AWS S3 Bucket
@@ -37,3 +31,5 @@ Further we queried the data and gathered insights for the data and used optimize
 - data processing/cleaning
 - writeup/reporting
 
+## Team Partner
+- Sanjana
